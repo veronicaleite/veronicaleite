@@ -1,0 +1,19 @@
+name: Generate contribution snake
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk@main
+        with:
+          github_user: veronicaleite
+          output_svg: output/github-contribution-grid-snake.svg
+          branch: output
