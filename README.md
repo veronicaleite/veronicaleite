@@ -2,7 +2,7 @@
 
 - 🎓 **Acadêmica em Sistemas de Informação**
 - 💻 Apaixonada por **Software Development**, **Object-Oriented Programming**, **Database Modeling**, **Front-end** and **Cloud Computing**
-- 💡 Sempre explorando como algoritmos, arquitetura limpa e sistemas de backend robustos resolvem problemas do mundo real.
+- 💡 Sempre explorando como algoritmos, arquitetura limpa e como sistemas de backend robustos resolvem problemas do mundo real.
 
 ## 🛠️ Tech Stack
 
